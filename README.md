@@ -1,6 +1,6 @@
 ## Daily-react-055-students-time-management-app
 
-> Challenge: create a students time-management app.
+> Challenge: create a student's time-management app.
 
 Work in progress: https://github.com/jamal7x7/daily-react-055-students-time-management-app
 
